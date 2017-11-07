@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\eodiong\\Desktop\\CSC537_Fall2017_HW2_Template-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\eodiong\\.android\\build-cache\\6424db467951bf3ec632842c50d71b1c67097db4\\output\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\rajvirsingh\\Desktop\\drive\\androidprojects\\codementor eddie assignments\\Andriod Studio Projects\\CSC537_Fall2017_HW2_Template-master.zip (Unzipped Files)\\CSC537_Fall2017_HW2_Template-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\rajvirsingh\\.android\\build-cache\\669362aa3f56c9a61b3d9f37ee0bf01e56d3e21b\\output\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]

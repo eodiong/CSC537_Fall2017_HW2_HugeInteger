@@ -1,0 +1,4 @@
+#Mon Nov 06 10:04:16 CST 2017
+base.0=C\:\\Users\\eodiong\\Desktop\\CSC537_Fall2017_HW2_Template-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=C\:\\Users\\eodiong\\Desktop\\CSC537_Fall2017_HW2_Template-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex
